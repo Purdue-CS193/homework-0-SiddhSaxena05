@@ -1,3 +1,9 @@
+# Siddh Saxena's First CS193 Homework
+
+## Things I like about CS 193
+- It is a one credit hour class
+- it helps me learn github
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -11,15 +17,15 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Siddh Saxena's First CS193 Homework
+# Header 1
 ## Header 2
 ### Header 3
 
-- it is only a one credit hour class
-- It helps me get better at github
+- Bulleted
+- List
 
-1. bruh
-2. 123
+1. Numbered
+2. List
 
 **Bold** and _Italic_ and `Code` text
 
